@@ -2,7 +2,7 @@ BadgeView for Android
 =====================
 
 An extended TextView that mimics the iOS Springboard 'badges'. It can be overlaid on any other item.
-
+//一个扩展的TextView模仿iOS的徽章”。它可以覆盖在任何其他项目。
 [Play Store Demo][1]
 
 
